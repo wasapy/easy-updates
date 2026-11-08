@@ -1,2 +1,5 @@
-# easy-updates
-Easy Soft program updates (signed builds only, no source)
+# Easy Soft updates
+
+ملفات تحديث برامج إيزي سوفت الموقّعة فقط – لا يوجد كود هنا.
+
+Signed program builds only. No source code.
